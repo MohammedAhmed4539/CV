@@ -1,0 +1,105 @@
+/*******************************//* Tags *//*******************************/
+body
+{
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+h1
+{
+  font-family: 'sacramento', cursive;
+  margin-top: 0px;
+  font-size: 70px;
+}
+h2
+{
+  font-family: 'Merriweather' serif;
+}
+h3
+{
+  font-family: 'Merriweather' serif;
+}
+
+P
+{
+  font-family: 'Montserrat' , serif;
+  font-size: 20px;
+}
+a
+{
+  color: white;
+}
+/*******************************//* Classes *//*******************************/
+                                 /*   Images  */
+.Img-S1
+{
+  position: absolute;
+  top: 50px;
+  right: 400px;
+}
+.Img-S2
+{
+  position: absolute;
+  left: 400px;
+  bottom: 500px;
+}
+.Mountain-i
+{
+  size: auto;
+  height: 550px;
+}
+.Computer-CSS
+{
+  width: 200px;
+  height: 200px;
+
+}
+                                 /*Dev Classes*/
+.Top-cont
+{
+  border: dotted 5px;
+  border-radius: 20px;
+  background-color: #47B5FF;
+  position: relative;
+  padding-top: 150px;
+}
+.middle-container
+{
+  margin-top: 5px;
+  border: dotted 5px;
+  border-radius: 20px;
+  color: white;
+  background-color: black;
+  padding-bottom: 10px;
+}
+.footer-link
+{
+  color: black;
+}
+.My-Logo
+{
+  border-radius: 100%;
+}
+.bottom-container
+{
+  border-radius: 20px;
+  background-color: #3B7C99;
+}
+.connect-img
+{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  width: 20px;
+  height: 20px;
+}
+.Footer
+{
+  padding: 2px;
+  border-radius: 20px;
+  background-color: black;
+  color: white;
+  margin: 0px;
+  font-family:  cursive;
+  font-style: bold;
+}
